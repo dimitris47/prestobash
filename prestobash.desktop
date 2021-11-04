@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=PrestoBash
+#Name[el_GR]=
+Comment=A GUI app to run bash commands
+#Comment[el_GR]=
+Exec=prestobash
+Icon=prestobash.png
+Terminal=false
+Categories=Utility;
+Keywords=command;prompt;bash;QT;DP;

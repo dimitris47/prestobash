@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/dialog-information.png</file>
+        <file>icons/document-edit.png</file>
+        <file>icons/list-add.png</file>
+        <file>icons/view-refresh.png</file>
+        <file>icons/prestobash.png</file>
+        <file>icons/folder-black.png</file>
+    </qresource>
+</RCC>
